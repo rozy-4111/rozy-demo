@@ -1,4 +1,4 @@
 # rozy-demo
 This is my first git reposetry
 <br>
-author-rozy ansari
+author-rozy (student)
